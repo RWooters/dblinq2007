@@ -1,0 +1,6 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.pdb

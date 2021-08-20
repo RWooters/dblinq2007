@@ -1,2 +1,15 @@
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csprojAssemblyReference.cache
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.Example.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.Example.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Ingres.Stereo.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Npgsql.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Mono.Security.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.pdb

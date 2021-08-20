@@ -1,6 +1,5 @@
 C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg.mono\System.Data.Linq.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg.mono\System.Data.Linq.pdb
-C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.csprojAssemblyReference.cache
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.csproj.CoreCompileInputs.cache
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.pdb
