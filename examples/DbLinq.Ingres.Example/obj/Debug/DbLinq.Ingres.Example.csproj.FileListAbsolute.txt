@@ -1,0 +1,2 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csproj.CoreCompileInputs.cache

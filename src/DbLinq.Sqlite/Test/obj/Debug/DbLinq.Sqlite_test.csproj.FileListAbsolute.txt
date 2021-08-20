@@ -1,0 +1,7 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Sqlite_test.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Sqlite_test.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test.pdb

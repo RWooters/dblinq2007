@@ -1,0 +1,13 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.Sqlite.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\System.Data.SQLite.DLL
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.Sqlite.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.pdb

@@ -1,0 +1,8 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.MySql_test.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.MySql_test.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.MySql_test.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.pdb

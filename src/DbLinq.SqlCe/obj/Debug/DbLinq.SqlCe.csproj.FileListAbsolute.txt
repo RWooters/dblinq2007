@@ -1,0 +1,7 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.SqlCe.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.SqlCe.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.pdb

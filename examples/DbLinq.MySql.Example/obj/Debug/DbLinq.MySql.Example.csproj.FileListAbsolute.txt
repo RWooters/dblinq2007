@@ -1,0 +1,13 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\MySql.Data.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.pdb

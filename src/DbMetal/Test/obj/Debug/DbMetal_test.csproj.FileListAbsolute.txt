@@ -1,0 +1,2 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.CoreCompileInputs.cache

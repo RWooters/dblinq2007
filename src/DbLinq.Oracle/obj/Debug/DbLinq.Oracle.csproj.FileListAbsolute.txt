@@ -1,0 +1,7 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Oracle.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Oracle.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.dll
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.pdb

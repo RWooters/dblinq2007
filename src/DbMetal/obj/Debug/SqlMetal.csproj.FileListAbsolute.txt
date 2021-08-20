@@ -1,0 +1,8 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\sqlmetal.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\sqlmetal.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\sqlmetal.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\obj\Debug\SqlMetal.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\obj\Debug\SqlMetal.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\obj\Debug\SqlMetal.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\obj\Debug\sqlmetal.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\obj\Debug\sqlmetal.pdb

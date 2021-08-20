@@ -1,0 +1,8 @@
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Oracle_test.exe.config
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Oracle_test.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbLinq.Oracle_test.pdb
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.csprojAssemblyReference.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.csproj.CoreCompileInputs.cache
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.csproj.CopyComplete
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.exe
+C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.pdb
