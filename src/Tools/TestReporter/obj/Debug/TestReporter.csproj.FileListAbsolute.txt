@@ -5,3 +5,9 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestReporter\obj\Debug\Test
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.csproj.CoreCompileInputs.cache
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.pdb
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\bin\Debug\TestReporter.exe.config
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\bin\Debug\TestReporter.exe
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\bin\Debug\TestReporter.pdb
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.exe
+C:\Dev\Zip\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.pdb

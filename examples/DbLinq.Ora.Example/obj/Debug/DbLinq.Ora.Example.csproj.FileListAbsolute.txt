@@ -10,3 +10,15 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\ClientCodeOra.exe.config
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\ClientCodeOra.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\ClientCodeOra.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.Oracle.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.Oracle.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.pdb

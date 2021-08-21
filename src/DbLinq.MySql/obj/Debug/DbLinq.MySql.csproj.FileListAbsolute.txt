@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MyS
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.MySql.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.MySql.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.pdb

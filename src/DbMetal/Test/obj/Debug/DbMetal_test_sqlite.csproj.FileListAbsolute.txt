@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_te
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbMetal_test_sqlite.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbMetal_test_sqlite.pdb
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.dll
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.pdb

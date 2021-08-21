@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLin
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.PostgreSql.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.PostgreSql.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.pdb

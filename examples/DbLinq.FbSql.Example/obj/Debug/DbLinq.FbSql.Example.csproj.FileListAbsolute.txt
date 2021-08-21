@@ -11,3 +11,16 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.FbSql.Example\obj\Deb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.FbSql.Example.exe.config
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.FbSql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.FbSql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.Firebird.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.Firebird.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.pdb

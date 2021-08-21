@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.In
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.pdb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csprojAssemblyReference.cache
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Ingres.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Ingres.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.pdb

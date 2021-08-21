@@ -11,3 +11,16 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\De
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.exe.config
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.SQLite.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.Sqlite.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\System.Data.SQLite.DLL
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.Sqlite.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\bin\Debug\DbLinq.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.SQLite.Example\obj\Debug\DbLinq.SQLite.Example.pdb

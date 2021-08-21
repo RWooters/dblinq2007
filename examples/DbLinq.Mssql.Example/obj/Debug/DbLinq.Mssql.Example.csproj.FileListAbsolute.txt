@@ -10,3 +10,15 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Mssql.Example\obj\Deb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.Mssql.Example.exe.config
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.Mssql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.Mssql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.SqlServer.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.SqlServer.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\bin\Debug\DbLinq.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.Mssql.Example\obj\Debug\DbLinq.Mssql.Example.pdb

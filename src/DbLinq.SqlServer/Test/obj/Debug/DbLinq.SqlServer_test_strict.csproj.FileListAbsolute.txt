@@ -4,3 +4,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\D
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.pdb

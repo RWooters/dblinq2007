@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq_test.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq_test.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test.pdb

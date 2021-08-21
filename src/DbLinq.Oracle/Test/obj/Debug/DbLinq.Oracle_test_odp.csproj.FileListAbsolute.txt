@@ -6,3 +6,11 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLi
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.exe.config
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.exe
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.exe
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.pdb

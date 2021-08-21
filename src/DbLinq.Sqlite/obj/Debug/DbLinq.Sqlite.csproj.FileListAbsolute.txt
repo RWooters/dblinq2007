@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sq
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.pdb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csprojAssemblyReference.cache
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Sqlite.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Sqlite.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.pdb

@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Or
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Oracle.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Oracle.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.pdb

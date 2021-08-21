@@ -6,3 +6,11 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLin
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.MySql_test.exe.config
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.MySql_test.exe
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.MySql_test.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.exe
+C:\Dev\Zip\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.pdb

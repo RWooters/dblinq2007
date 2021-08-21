@@ -11,3 +11,16 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Deb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.exe.config
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\MySql.Data.dll
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.pdb
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.exe
+C:\Dev\Zip\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.pdb

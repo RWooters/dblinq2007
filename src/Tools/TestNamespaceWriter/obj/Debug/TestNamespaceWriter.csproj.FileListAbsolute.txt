@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestNamespaceWriter\obj\Deb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.csproj.CoreCompileInputs.cache
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.exe
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.pdb
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe.config
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.pdb
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.exe
+C:\Dev\Zip\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.pdb

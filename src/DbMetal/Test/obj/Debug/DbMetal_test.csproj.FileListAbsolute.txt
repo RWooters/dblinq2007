@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\build.dbg\DbMetal_test.pdb
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbMetal_test.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbMetal_test.pdb
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.dll
+C:\Dev\Zip\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.pdb

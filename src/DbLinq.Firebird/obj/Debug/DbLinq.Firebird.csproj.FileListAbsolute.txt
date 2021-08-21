@@ -5,3 +5,10 @@ C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csproj.CopyComplete
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.dll
 C:\DR\Solutions\VS2017\Projects\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.pdb
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Firebird.dll
+C:\Dev\Zip\dblinq2007\build.dbg\DbLinq.Firebird.pdb
+C:\Dev\Zip\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csproj.AssemblyReference.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csproj.CoreCompileInputs.cache
+C:\Dev\Zip\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csproj.CopyComplete
+C:\Dev\Zip\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.dll
+C:\Dev\Zip\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.pdb
